@@ -1,0 +1,24 @@
+{
+  "name": "exo-4-formulaires",
+  "version": "1.0.0",
+  "description": "Exo-4-formulaires utiliser un formulaire avec nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soobik/Exo-4-formulaires.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soobik/Exo-4-formulaires/issues"
+  },
+  "homepage": "https://github.com/soobik/Exo-4-formulaires#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6"
+  }
+}
